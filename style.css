@@ -1,0 +1,25 @@
+
+.side{
+    background-color: red;
+    
+}
+
+.menu{
+    background-color: rgba(255, 216, 126, 0.205);
+}
+
+.message{
+    background-color: rgba(207, 207, 207, 0.459);
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+a{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
